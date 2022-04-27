@@ -10,7 +10,7 @@
 
 
 # OverView
-E-Plus is a Free E-Commerce Application with Laravel that come with:
+
 
 - Modern ,Fast ,Responsible (Both admin panel and front) and Secure;
 
@@ -112,13 +112,7 @@ guest checkout system also supported!
 
 
 
-# Documentation
-###  [See screenshots and documentation](http://findhossein.com/e-plus/overview "See screenshots and documention")
 
-
-# Licence
-The MIT License (MIT). Please see [License File](https://github.com/beyondcode/laravel-er-diagram-generator/blob/master/LICENSE.md "License File")
- for more information.
 
 
 
