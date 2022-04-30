@@ -6,6 +6,13 @@
 3. - `php artisan db:seed`
 
 
+#### Authentication 
+
+- a super-admin with : email: admin@gmail.com 
+                and password: 123456
+                
+
+
 
 
 
